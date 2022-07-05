@@ -1,0 +1,13 @@
+1656987500989	geckodriver	INFO	Listening on 127.0.0.1:55020
+1656987504050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\joao_\\AppData\\Local\\Temp\\rust_mozprofileR0yuJj"
+1656987504994	Marionette	INFO	Marionette enabled
+1656987505006	Marionette	INFO	Listening on port 55073
+WebDriver BiDi listening on ws://localhost:55021
+Read port: 55073
+1656987505332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\joao_\\AppData\\Local\\Temp\\rust_mozprofileR0yuJj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55021/devtools/browser/df3460f5-afce-4495-8b90-625d148ee9b0
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://hqporner.com/category/lesbian, line 1422: ReferenceError: $ is not defined
+JavaScript error: https://hqporner.com/hdporn/106295-sweaty_sauna_fuckfest.html, line 1600: TypeError: $(...).html() is undefined
+JavaScript error: https://hqporner.com/hdporn/102090-smashing_my_hot_lesbian_roommates.html, line 1020: TypeError: $(...).html() is undefined
